@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical" >
+    <SeekBar 
+	    	android:id="@+id/seekbar"
+	    	android:layout_width="190dp"
+	    	android:layout_height="wrap_content"
+	    	android:layout_margin="30dp"
+			android:progressDrawable="@drawable/seekbar_bg"  
+	   		android:thumb="@drawable/seek_ponit"
+	   		android:progress="50"
+			android:maxHeight="10dp"
+    		android:minHeight="10dp"
+    		android:visibility="gone"	
+	    />
+      <RelativeLayout
+            android:id="@+id/layout_tag"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:background="@drawable/about_circle"
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_com"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:text="@string/default_setting"
+                android:textColor="@color/biz_tie_reply"
+                android:textSize="@dimen/txt_h3" />
+
+        </RelativeLayout>
+    </RelativeLayout>

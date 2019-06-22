@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="best_head_array">
+        <item>用户列表</item>
+        <item>联系老师</item>
+        <item>最新排名</item>
+    </string-array>
+    <string-array name="course_list_array">
+        <item>Android程序课件列表</item>
+    </string-array>
+    <string-array name="download_array">
+        <item>正在下载</item>
+        <item>已下载</item>
+    </string-array>
+    <string-array name="exam_array">
+        <item>模拟考场</item>
+        <item>考试成绩</item>
+        <!--<item>答案解析</item>-->
+    </string-array>
+    <string-array name="famous_book_array">
+        <item>本地视频</item>
+        <item>在线视频</item>
+    </string-array>
+    <string-array name="setting_array">
+        <item>主题色</item>
+        <item>字体大小</item>
+        <item>帮助</item>
+    </string-array>
+    <string-array name="sync_tech_array">
+        <item>本地资源</item>
+        <item>在线资源</item>
+    </string-array>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="default_line_indicator_centered">true</bool>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <bool name="default_underline_indicator_fades">true</bool>
+    <color name="about_us_bg">#22ad38</color>
+    <color name="base_bar_bottom_color">#0fc4d9</color>
+    <color name="base_bg_color">#ffffffff</color>
+    <color name="base_black">#ff000000</color>
+    <color name="base_edittext_hint_color">#ffa4a6b0</color>
+    <color name="base_red">#ffff0000</color>
+    <color name="base_text_color">#a5a5a5</color>
+    <color name="base_white">#ffffffff</color>
+    <color name="best_head_bg">#fe864b</color>
+    <color name="biz_tie_reply">#ff545454</color>
+    <color name="black">#ff000000</color>
+    <color name="blue_bg">#747ae9</color>
+    <color name="book_bar_color">#80000000</color>
+    <color name="button_bg_color">#0fc4d9</color>
+    <color name="button_bg_color_selector">#747ae9</color>
+    <color name="color_copy_right">#ffababab</color>
+    <color name="color_dialog_ok">#fffb5365</color>
+    <color name="color_nav_text">#ff414141</color>
+    <color name="dark_blue_bg">#9755f6</color>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
+    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
+    <color name="default_progress_bar_color">#ff33b5e5</color>
+    <color name="default_title_indicator_footer_color">#FF33B5E5</color>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
+    <color name="exam_and_account_bg">#ffcc33</color>
+    <color name="famous_book_bg">#9755f6</color>
+    <color name="font_tab_selected_color">#a5a5a5</color>
+    <color name="font_tab_unselected_color">#dddddd</color>
+    <color name="green">#ff00ff00</color>
+    <color name="green_bg">#0fc4d9</color>
+    <color name="magazine_title_font">#ff212020</color>
+    <color name="my_download_bg">#84d018</color>
+    <color name="orange_bg">#fe864b</color>
+    <color name="paink_bg">#ff6678</color>
+    <color name="process_bakground">#80000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="spb_default_color">#ff33b5e5</color>
+    <color name="syn_book_bg">#ff6678</color>
+    <color name="sys_setting_bg">#c8d900</color>
+    <color name="transparent">#00000000</color>
+    <color name="user_manager_bg">#0fc4d9</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="yellow_bg">#ffcc33</color>
+    <dimen name="bar_bottom_height">50dp</dimen>
+    <dimen name="base_list_title_text_size">15.0sp</dimen>
+    <dimen name="biz_fb_paddingx10">10.0dip</dimen>
+    <dimen name="biz_fb_paddingx20">20.0dip</dimen>
+    <dimen name="biz_fb_paddingx5">5.0dip</dimen>
+    <dimen name="biz_tie_comment_reply_height">54.0dip</dimen>
+    <dimen name="biz_tie_comment_reply_padding">0.0dip</dimen>
+    <dimen name="biz_tie_comment_reply_text_size">14.0sp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_line_indicator_gap_width">4dp</dimen>
+    <dimen name="default_line_indicator_line_width">12dp</dimen>
+    <dimen name="default_line_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+    <dimen name="download_sub_height">130dip</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="main_button_margin">4dp</dimen>
+    <dimen name="main_content_padding">25dp</dimen>
+    <dimen name="main_layout_margin">8dp</dimen>
+    <dimen name="main_title_text_padding">5dp</dimen>
+    <dimen name="main_title_text_size">16sp</dimen>
+    <dimen name="nav_inner_item_text_size">16.0sp</dimen>
+    <dimen name="nav_item_magin_left">10.0dip</dimen>
+    <dimen name="nav_item_text_size">18.0sp</dimen>
+    <dimen name="nav_magin_left">10.0dip</dimen>
+    <dimen name="nav_text_magin_left">10.0dip</dimen>
+    <dimen name="ptr_progress_bar_stroke_width">4.0dip</dimen>
+    <dimen name="setting_item_height">70.0dip</dimen>
+    <dimen name="setting_item_magin_left">15.0dip</dimen>
+    <dimen name="setting_item_padding">10.0dip</dimen>
+    <dimen name="setting_item_text_size">16.0sp</dimen>
+    <dimen name="setting_text_magin_left">15.0dip</dimen>
+    <dimen name="sync_tab_title_size">22sp</dimen>
+    <dimen name="tab_menu_bg_height">110dp</dimen>
+    <dimen name="tab_menu_txtsize">15sp</dimen>
+    <dimen name="txt_h1">25dp</dimen>
+    <dimen name="txt_h2">20dp</dimen>
+    <dimen name="txt_h3">17dp</dimen>
+    <dimen name="txt_h4">15dp</dimen>
+    <dimen name="txt_h5">13dp</dimen>
+    <dimen name="user_button_height">40dp</dimen>
+    <dimen name="user_button_width">110dp</dimen>
+    <dimen name="user_edit_height">40dp</dimen>
+    <item name="dialog_waiting" type="id"/>
+    <item name="dialog_wireless_setting" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="images" type="id"/>
+    <item name="listview" type="id"/>
+    <item name="ui_dismiss_dialog" type="id"/>
+    <item name="ui_show_dialog" type="id"/>
+    <item name="ui_show_text" type="id"/>
+    <item name="ui_update_ui" type="id"/>
+    <item name="webview" type="id"/>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <integer name="default_underline_indicator_fade_delay">300</integer>
+    <integer name="default_underline_indicator_fade_length">400</integer>
+    <string name="F">false</string>
+    <string name="about_us">关于我們</string>
+    <string name="account_number">账号：</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_account">账戶充值</string>
+    <string name="app_name">在线课堂</string>
+    <string name="app_version">v1.0</string>
+    <string name="base_text">基本介绍</string>
+    <string name="best_head">在线交流</string>
+    <string name="boy_text">男</string>
+    <string name="card_number">卡号：</string>
+    <string name="card_pwd_text">卡密码</string>
+    <string name="card_text">卡号</string>
+    <string name="check_update">检查更新</string>
+    <string name="code_text">验证码</string>
+    <string name="company_eng_name">PeterClass</string>
+    <string name="copyright">胖大海工作室版权所有</string>
+    <string name="default_setting">默认\n设置</string>
+    <string name="download_text">下载安装</string>
+    <string name="exam_room">模拟测试</string>
+    <string name="exception_parse">解析数据异常</string>
+    <string name="exception_timeout">网络超时</string>
+    <string name="famous_book">教学视频</string>
+    <string name="find_password">立即找回！</string>
+    <string name="foget_password">忘记密码？</string>
+    <string name="get_code_text">获取验证码</string>
+    <string name="girl_text">女</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="introduce">软件介绍</string>
+    <string name="login">登录</string>
+    <string name="my_download">下载管理</string>
+    <string name="name_text">姓名</string>
+    <string name="new_password_to_phone">新密码发送至手机</string>
+    <string name="no_register">还没有加入？</string>
+    <string name="ok">确认</string>
+    <string name="password_find">密码找回</string>
+    <string name="password_text">输入密码</string>
+    <string name="pay_account_ok">充值</string>
+    <string name="pay_account_text">充值账号</string>
+    <string name="pay_yes_or_no">是否确认充值？</string>
+    <string name="phone_text">手机号码</string>
+    <string name="please_login_text">请登录</string>
+    <string name="pwd_text">密码</string>
+    <string name="register">注册</string>
+    <string name="register_login_text">注册登录</string>
+    <string name="register_text">立即注册！</string>
+    <string name="repay_account_text">账号确认</string>
+    <string name="repwd_text">确认密码</string>
+    <string name="reset">重置</string>
+    <string name="server_phone">客服电话：139-7911-1834</string>
+    <string name="sex_text">性别</string>
+    <string name="syn_tech">学习资源</string>
+    <string name="sys_setting">系統設置</string>
+    <string name="user_manager">用戶管理</string>
+    <string name="user_register">用户注册</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light"/>
+    <style name="BrowseStyle" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/browse_anim_in</item>
+        <item name="android:windowExitAnimation">@anim/browse_anim_out</item>
+    </style>
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@drawable/text_tab_indicator</item>
+        <item name="android:textSize">@dimen/sync_tab_title_size</item>
+        <item name="android:dividerPadding">10dp</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style>
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="MenuBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/menu_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/menu_bottom_out</item>
+    </style>
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:colorBackground">@color/base_bg_color</item>
+        <item name="android:windowBackground">@color/base_bg_color</item>
+    </style>
+    <style name="MyTheme.Full" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:colorBackground">@color/base_bg_color</item>
+        <item name="android:windowBackground">@color/base_bg_color</item>
+    </style>
+    <style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="max">100</item>
+        <item name="progress">0</item>
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#3498DB</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#3498DB</item>
+        <item name="progress_reached_bar_height">3dp</item>
+        <item name="progress_unreached_bar_height">2dp</item>
+    </style>
+    <style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style>
+    <style name="Theme.Oclass" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style>
+    <style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <style name="UserButtonStyle">
+        <item name="android:layout_width">@dimen/user_button_width</item>
+        <item name="android:layout_height">@dimen/user_button_height</item>
+        <item name="android:background">@drawable/base_button_selector</item>
+        <item name="android:textSize">@dimen/txt_h3</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="Widget">
+    </style>
+    <style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="base_list_title_style">
+        <item name="android:textSize">@dimen/base_list_title_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ffadadad</item>
+    </style>
+    <style name="base_setting_style">
+        <item name="android:textSize">@dimen/setting_item_text_size</item>
+        <item name="android:textColor">@drawable/nav_text_color</item>
+    </style>
+    <style name="base_tip_btn_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/base_black</item>
+    </style>
+    <declare-styleable name="CirclePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the filled circle that represents the current page. -->
+        <attr format="color" name="fillColor"/>
+        <!-- Color of the filled circles that represents pages. -->
+        <attr format="color" name="pageColor"/>
+        <!-- Orientation of the indicator. -->
+        <attr name="android:orientation"/>
+        <!-- Radius of the circles. This is also the spacing between circles. -->
+        <attr format="dimension" name="radius"/>
+        <!-- Whether or not the selected indicator snaps to the circles. -->
+        <attr format="boolean" name="snap"/>
+        <!-- Color of the open circles. -->
+        <attr format="color" name="strokeColor"/>
+        <!-- Width of the stroke used to draw the circles. -->
+        <attr name="strokeWidth"/>
+    </declare-styleable>
+    <declare-styleable name="LinePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the unselected lines that represent the pages. -->
+        <attr name="unselectedColor"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- Width of each indicator line. -->
+        <attr format="dimension" name="lineWidth"/>
+        <!-- Width of each indicator line's stroke. -->
+        <attr name="strokeWidth"/>
+        <!-- Width of the gap between each indicator line. -->
+        <attr format="dimension" name="gapWidth"/>
+    </declare-styleable>
+    <declare-styleable name="NumberProgressBar">
+        <attr format="integer" name="progress"/>
+        <attr format="integer" name="max"/>
+
+        <attr format="color" name="progress_unreached_color"/>
+        <attr format="color" name="progress_reached_color"/>
+
+        <attr format="dimension" name="progress_reached_bar_height"/>
+        <attr format="dimension" name="progress_unreached_bar_height"/>
+
+        <attr format="dimension" name="progress_text_size"/>
+        <attr format="color" name="progress_text_color"/>
+
+        <attr format="dimension" name="progress_text_offset"/>
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr format="reference" name="numberProgressBarStyle"/>
+    </declare-styleable>
+    <declare-styleable name="TitlePageIndicator">
+        <!-- Screen edge padding. -->
+        <attr format="dimension" name="clipPadding"/>
+        <!-- Color of the footer line and indicator. -->
+        <attr format="color" name="footerColor"/>
+        <!-- Height of the footer line. -->
+        <attr format="dimension" name="footerLineHeight"/>
+        <!-- Style of the indicator. Default is triangle. -->
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        <!-- Height of the indicator above the footer line. -->
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        <!-- Left and right padding of the underline indicator. -->
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        <!-- Padding between the bottom of the title and the footer. -->
+        <attr format="dimension" name="footerPadding"/>
+        <!-- Color of the selected title. -->
+        <attr name="selectedColor"/>
+        <!-- Whether or not the selected item is displayed as bold. -->
+        <attr format="boolean" name="selectedBold"/>
+        <!-- Color of regular titles. -->
+        <attr name="android:textColor"/>
+        <!-- Size of title text. -->
+        <attr name="android:textSize"/>
+        <!-- Padding between titles when bumping into each other. -->
+        <attr format="dimension" name="titlePadding"/>
+        <!-- Padding between titles and the top of the View. -->
+        <attr format="dimension" name="topPadding"/>
+    </declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator">
+        <!-- Whether or not the selected indicator fades. -->
+        <attr format="boolean" name="fades"/>
+        <!-- Length of the delay to fade the indicator. -->
+        <attr format="integer" name="fadeDelay"/>
+        <!-- Length of the indicator fade to transparent. -->
+        <attr format="integer" name="fadeLength"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+    </declare-styleable>
+    <declare-styleable name="ViewPagerIndicator">
+        <!-- Style of the circle indicator. -->
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        <!-- Style of the line indicator. -->
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        <!-- Style of the title indicator. -->
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        <!-- Style of the tab indicator's tabs. -->
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        <!-- Style of the underline indicator. -->
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical" >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingTop="@dimen/main_layout_margin" >
+
+                <Button
+                    android:id="@+id/layout_study"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="@dimen/main_layout_margin"
+                    android:layout_marginRight="@dimen/main_button_margin"
+                    android:layout_weight="1"
+                    android:background="@color/syn_book_bg" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/main_button_margin"
+                    android:layout_marginRight="@dimen/main_layout_margin"
+                    android:layout_weight="2" >
+
+                    <Button
+                        android:id="@+id/layout_exam"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/tab_menu_bg_height"
+                        android:background="@color/exam_and_account_bg"
+                        android:gravity="center" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingTop="@dimen/main_layout_margin" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/main_layout_margin"
+                    android:layout_marginRight="@dimen/main_button_margin"
+                    android:layout_weight="2" >
+
+                    <Button
+                        android:id="@+id/layout_video"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/tab_menu_bg_height"
+                        android:background="@color/famous_book_bg"
+                        android:gravity="center" />
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/layout_online"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="@dimen/main_button_margin"
+                    android:layout_marginRight="@dimen/main_layout_margin"
+                    android:layout_weight="1"
+                    android:background="@color/best_head_bg" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingTop="@dimen/main_layout_margin" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/main_layout_margin"
+                    android:layout_marginRight="@dimen/main_button_margin"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/layout_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/tab_menu_bg_height"
+                        android:background="@color/user_manager_bg"
+                        android:gravity="center"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/main_button_margin"
+                    android:layout_marginRight="@dimen/main_button_margin"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/layout_pay"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/tab_menu_bg_height"
+                        android:background="@color/exam_and_account_bg"
+                        android:gravity="center" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/main_button_margin"
+                    android:layout_marginRight="@dimen/main_layout_margin"
+                    android:layout_weight="1" >
+
+                    <Button
+                        android:id="@+id/layout_download"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/tab_menu_bg_height"
+                        android:background="@color/my_download_bg"
+                        android:gravity="center" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/main_layout_margin"
+                android:paddingTop="@dimen/main_layout_margin" >
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/main_layout_margin"
+                    android:layout_marginRight="@dimen/main_button_margin"
+                    android:layout_weight="2" >
+
+                    <Button
+                        android:id="@+id/layout_settings"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/tab_menu_bg_height"
+                        android:background="@color/sys_setting_bg"
+                        android:gravity="center" />
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/layout_about"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginLeft="@dimen/main_button_margin"
+                    android:layout_marginRight="@dimen/main_layout_margin"
+                    android:layout_weight="1"
+                    android:background="@color/about_us_bg" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:paddingBottom="@dimen/main_layout_margin"
+                android:paddingTop="@dimen/main_layout_margin" >
+                <RelativeLayout
+                    android:id="@+id/layout_tag"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:background="@drawable/about_circle"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/tv_com"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="2"
+                        android:text="@string/default_setting"
+                        android:textColor="@color/biz_tie_reply"
+                        android:textSize="@dimen/txt_h3" />
+
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

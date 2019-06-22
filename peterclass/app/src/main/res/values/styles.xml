@@ -1,0 +1,97 @@
+<resources>
+
+    <style name="Theme.Oclass" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@drawable/text_tab_indicator</item>
+        <item name="android:textSize">@dimen/sync_tab_title_size</item>
+        <item name="android:dividerPadding">10dp</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style>
+
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+
+    <style name="UserButtonStyle">
+        <item name="android:layout_width">@dimen/user_button_width</item>
+        <item name="android:layout_height">@dimen/user_button_height</item>
+        <item name="android:background">@drawable/base_button_selector</item>
+        <item name="android:textSize">@dimen/txt_h3</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+    <style name="BrowseStyle" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/browse_anim_in</item>
+        <item name="android:windowExitAnimation">@anim/browse_anim_out</item>
+    </style>
+
+    <style name="MenuBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/menu_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/menu_bottom_out</item>
+    </style>
+    <!-- 透明样式 -->
+    <style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <!-- Application theme. -->
+
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+
+
+
+    <style name="base_list_title_style">
+        <item name="android:textSize">@dimen/base_list_title_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ffadadad</item>
+    </style>
+
+    <style name="base_setting_style">
+        <item name="android:textSize">@dimen/setting_item_text_size</item>
+        <item name="android:textColor">@drawable/nav_text_color</item>
+    </style>
+
+    <style name="base_tip_btn_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/base_black</item>
+    </style>
+
+    <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:colorBackground">@color/base_bg_color</item>
+        <item name="android:windowBackground">@color/base_bg_color</item>
+    </style>
+
+    <style name="MyTheme.Full" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:colorBackground">@color/base_bg_color</item>
+        <item name="android:windowBackground">@color/base_bg_color</item>
+    </style>
+
+    <style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="max">100</item>
+        <item name="progress">0</item>
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#3498DB</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#3498DB</item>
+        <item name="progress_reached_bar_height">3dp</item>
+        <item name="progress_unreached_bar_height">2dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        layout="@layout/view_bar_head" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:singleLine="true"
+            android:text="@string/card_number"
+            android:textColor="@color/base_text_color"
+            android:textSize="@dimen/txt_h3" >
+        </TextView>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:singleLine="true"
+            android:text="@string/account_number"
+            android:textColor="@color/base_text_color"
+            android:textSize="@dimen/txt_h3" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:singleLine="true"
+            android:text="@string/pay_yes_or_no"
+            android:textColor="@color/button_bg_color"
+            android:textSize="@dimen/txt_h3" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/user_button_height"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/base_button_selector"
+            android:text="@string/ok"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt_h3" />
+    </LinearLayout>
+
+</LinearLayout>

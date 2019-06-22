@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="G:\AndroidProject\peterclass\app\src\main\res"/><source path="G:\AndroidProject\peterclass\app\build\generated\res\rs\debug"/><source path="G:\AndroidProject\peterclass\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="G:\AndroidProject\peterclass\app\src\main\res"><file name="browse_anim_in" path="G:\AndroidProject\peterclass\app\src\main\res\anim\browse_anim_in.xml" qualifiers="" type="anim"/><file name="browse_anim_out" path="G:\AndroidProject\peterclass\app\src\main\res\anim\browse_anim_out.xml" qualifiers="" type="anim"/><file name="menu_bottom_in" path="G:\AndroidProject\peterclass\app\src\main\res\anim\menu_bottom_in.xml" qualifiers="" type="anim"/><file name="menu_bottom_out" path="G:\AndroidProject\peterclass\app\src\main\res\anim\menu_bottom_out.xml" qualifiers="" type="anim"/><file name="vpi__dark_theme" path="G:\AndroidProject\peterclass\app\src\main\res\color\vpi__dark_theme.xml" qualifiers="" type="color"/><file name="vpi__light_theme" path="G:\AndroidProject\peterclass\app\src\main\res\color\vpi__light_theme.xml" qualifiers="" type="color"/><file name="about_me_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\about_me_selector.xml" qualifiers="" type="drawable"/><file name="about_msg_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\about_msg_selector.xml" qualifiers="" type="drawable"/><file name="back_bottom_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\back_bottom_selector.xml" qualifiers="" type="drawable"/><file name="back_head_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\back_head_selector.xml" qualifiers="" type="drawable"/><file name="base_button_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\base_button_selector.xml" qualifiers="" type="drawable"/><file name="base_item_seletor" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\base_item_seletor.xml" qualifiers="" type="drawable"/><file name="best_head2_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\best_head2_selector.xml" qualifiers="" type="drawable"/><file name="best_head3_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\best_head3_selector.xml" qualifiers="" type="drawable"/><file name="best_head_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\best_head_selector.xml" qualifiers="" type="drawable"/><file name="chinese_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\chinese_selector.xml" qualifiers="" type="drawable"/><file name="contact_us_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\contact_us_selector.xml" qualifiers="" type="drawable"/><file name="custom_tab_indicator" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\custom_tab_indicator.xml" qualifiers="" type="drawable"/><file name="english_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\english_selector.xml" qualifiers="" type="drawable"/><file name="exam_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\exam_selector.xml" qualifiers="" type="drawable"/><file name="famous_book_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\famous_book_selector.xml" qualifiers="" type="drawable"/><file name="login_text_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\login_text_selector.xml" qualifiers="" type="drawable"/><file name="money_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\money_selector.xml" qualifiers="" type="drawable"/><file name="my_download_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\my_download_selector.xml" qualifiers="" type="drawable"/><file name="nav_text_color" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\nav_text_color.xml" qualifiers="" type="drawable"/><file name="number_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\number_selector.xml" qualifiers="" type="drawable"/><file name="radiobutton_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\radiobutton_selector.xml" qualifiers="" type="drawable"/><file name="setting_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\setting_selector.xml" qualifiers="" type="drawable"/><file name="text_tab_indicator" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\text_tab_indicator.xml" qualifiers="" type="drawable"/><file name="user_selector" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\user_selector.xml" qualifiers="" type="drawable"/><file name="vpi__tab_indicator" path="G:\AndroidProject\peterclass\app\src\main\res\drawable\vpi__tab_indicator.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="a01" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\a01.png" qualifiers="xhdpi-v4" type="drawable"/><file name="a02" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\a02.png" qualifiers="xhdpi-v4" type="drawable"/><file name="a03" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\a03.png" qualifiers="xhdpi-v4" type="drawable"/><file name="a04" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\a04.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_circle" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\about_circle.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_me_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\about_me_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_me_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\about_me_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_msg_green" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\about_msg_green.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_msg_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\about_msg_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_msg_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\about_msg_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="best_head1_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\best_head1_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="best_head1_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\best_head1_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="best_head2_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\best_head2_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="best_head2_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\best_head2_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="best_head3_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\best_head3_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="best_head3_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\best_head3_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="book_blue_bg" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\book_blue_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="book_coner" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\book_coner.png" qualifiers="xhdpi-v4" type="drawable"/><file name="book_default" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\book_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="b_default" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\b_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="card_tag" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\card_tag.png" qualifiers="xhdpi-v4" type="drawable"/><file name="checked" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\checked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="chinese_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\chinese_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="chinese_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\chinese_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="contact_us_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\contact_us_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="contact_us_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\contact_us_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="download_del" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\download_del.png" qualifiers="xhdpi-v4" type="drawable"/><file name="download_green" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\download_green.png" qualifiers="xhdpi-v4" type="drawable"/><file name="download_pause" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\download_pause.png" qualifiers="xhdpi-v4" type="drawable"/><file name="edit_bg" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\edit_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="english_default" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\english_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="english_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\english_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="english_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\english_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="exam_book_bg" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\exam_book_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="exam_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\exam_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="exam_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\exam_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="famous_book_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\famous_book_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="famous_book_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\famous_book_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="game_default" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\game_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="g_default" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\g_default.png" qualifiers="xhdpi-v4" type="drawable"/><file name="head_logo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\head_logo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="image_page_bg" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\image_page_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="load_more" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\load_more.png" qualifiers="xhdpi-v4" type="drawable"/><file name="money_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\money_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="money_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\money_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="my_download_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\my_download_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="my_download_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\my_download_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="name_tag" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\name_tag.png" qualifiers="xhdpi-v4" type="drawable"/><file name="no_checked" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\no_checked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="number_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\number_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="number_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\number_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="page_indicator_focused" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\page_indicator_focused.png" qualifiers="xhdpi-v4" type="drawable"/><file name="page_indicator_unfocused" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\page_indicator_unfocused.png" qualifiers="xhdpi-v4" type="drawable"/><file name="password" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\password.png" qualifiers="xhdpi-v4" type="drawable"/><file name="password_gray" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\password_gray.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\phone.png" qualifiers="xhdpi-v4" type="drawable"/><file name="phone_white" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\phone_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ppt" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\ppt.png" qualifiers="xhdpi-v4" type="drawable"/><file name="register_edit" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\register_edit.png" qualifiers="xhdpi-v4" type="drawable"/><file name="register_green" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\register_green.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seekbar_bg" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\seekbar_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="seek_ponit" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\seek_ponit.png" qualifiers="xhdpi-v4" type="drawable"/><file name="setting_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\setting_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="setting_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\setting_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="setting_pressed_list_bg" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\setting_pressed_list_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="suo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\suo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_selected_example" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\tab_selected_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_selected_focused_example" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\tab_selected_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_selected_pressed_example" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\tab_selected_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_unselected_focused_example" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\tab_unselected_focused_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="tab_unselected_pressed_example" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\tab_unselected_pressed_example.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="user_head" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\user_head.png" qualifiers="xhdpi-v4" type="drawable"/><file name="user_home" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\user_home.png" qualifiers="xhdpi-v4" type="drawable"/><file name="user_home_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\user_home_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="user_normal" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\user_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="user_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\user_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_1" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\video_1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_2" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\video_2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_3" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\video_3.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_4" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\video_4.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_5" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\video_5.png" qualifiers="xhdpi-v4" type="drawable"/><file name="video_6" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\video_6.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="back" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xxhdpi\back.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="back_pressed" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xxhdpi\back_pressed.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="home" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xxhdpi\home.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="search" path="G:\AndroidProject\peterclass\app\src\main\res\drawable-xxhdpi\search.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_about_us" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_about_us.xml" qualifiers="" type="layout"/><file name="activity_exam_detial" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_exam_detial.xml" qualifiers="" type="layout"/><file name="activity_find_pwd" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_find_pwd.xml" qualifiers="" type="layout"/><file name="activity_login" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_pay" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_pay.xml" qualifiers="" type="layout"/><file name="activity_pay_ok" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_pay_ok.xml" qualifiers="" type="layout"/><file name="activity_register" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_register.xml" qualifiers="" type="layout"/><file name="activity_sync_tech" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_sync_tech.xml" qualifiers="" type="layout"/><file name="activity_web_view" path="G:\AndroidProject\peterclass\app\src\main\res\layout\activity_web_view.xml" qualifiers="" type="layout"/><file name="choice_item_layout" path="G:\AndroidProject\peterclass\app\src\main\res\layout\choice_item_layout.xml" qualifiers="" type="layout"/><file name="course_list" path="G:\AndroidProject\peterclass\app\src\main\res\layout\course_list.xml" qualifiers="" type="layout"/><file name="course_list_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\course_list_item.xml" qualifiers="" type="layout"/><file name="download_fragment" path="G:\AndroidProject\peterclass\app\src\main\res\layout\download_fragment.xml" qualifiers="" type="layout"/><file name="fragment_font" path="G:\AndroidProject\peterclass\app\src\main\res\layout\fragment_font.xml" qualifiers="" type="layout"/><file name="fragment_help" path="G:\AndroidProject\peterclass\app\src\main\res\layout\fragment_help.xml" qualifiers="" type="layout"/><file name="fragment_main" path="G:\AndroidProject\peterclass\app\src\main\res\layout\fragment_main.xml" qualifiers="" type="layout"/><file name="fragment_sync_tech" path="G:\AndroidProject\peterclass\app\src\main\res\layout\fragment_sync_tech.xml" qualifiers="" type="layout"/><file name="fragment_theme_color" path="G:\AndroidProject\peterclass\app\src\main\res\layout\fragment_theme_color.xml" qualifiers="" type="layout"/><file name="fragment_view_list" path="G:\AndroidProject\peterclass\app\src\main\res\layout\fragment_view_list.xml" qualifiers="" type="layout"/><file name="game_rank_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\game_rank_item.xml" qualifiers="" type="layout"/><file name="game_record_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\game_record_item.xml" qualifiers="" type="layout"/><file name="judge_item_layout" path="G:\AndroidProject\peterclass\app\src\main\res\layout\judge_item_layout.xml" qualifiers="" type="layout"/><file name="sync_tech_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\sync_tech_item.xml" qualifiers="" type="layout"/><file name="view_about_us" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_about_us.xml" qualifiers="" type="layout"/><file name="view_bar_bottom" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_bar_bottom.xml" qualifiers="" type="layout"/><file name="view_bar_head" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_bar_head.xml" qualifiers="" type="layout"/><file name="view_best_head" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_best_head.xml" qualifiers="" type="layout"/><file name="view_download_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_download_item.xml" qualifiers="" type="layout"/><file name="view_famous_book_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_famous_book_item.xml" qualifiers="" type="layout"/><file name="view_game_item" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_game_item.xml" qualifiers="" type="layout"/><file name="view_head_ad" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_head_ad.xml" qualifiers="" type="layout"/><file name="view_syn_tech" path="G:\AndroidProject\peterclass\app\src\main\res\layout\view_syn_tech.xml" qualifiers="" type="layout"/><file name="main" path="G:\AndroidProject\peterclass\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="G:\AndroidProject\peterclass\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="NumberProgressBar">
+        <attr format="integer" name="progress"/>
+        <attr format="integer" name="max"/>
+
+        <attr format="color" name="progress_unreached_color"/>
+        <attr format="color" name="progress_reached_color"/>
+
+        <attr format="dimension" name="progress_reached_bar_height"/>
+        <attr format="dimension" name="progress_unreached_bar_height"/>
+
+        <attr format="dimension" name="progress_text_size"/>
+        <attr format="color" name="progress_text_color"/>
+
+        <attr format="dimension" name="progress_text_offset"/>
+    </declare-styleable><declare-styleable name="Themes">
+        <attr format="reference" name="numberProgressBarStyle"/>
+    </declare-styleable></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\colors.xml" qualifiers=""><color name="red">#ffff0000</color><color name="white">#ffffffff</color><color name="yellow">#ffffff00</color><color name="green">#ff00ff00</color><color name="black">#ff000000</color><color name="transparent">#00000000</color><color name="default_progress_bar_color">#ff33b5e5</color><color name="base_bg_color">#ffffffff</color><color name="base_edittext_hint_color">#ffa4a6b0</color><color name="base_black">#ff000000</color><color name="base_white">#ffffffff</color><color name="base_red">#ffff0000</color><color name="biz_tie_reply">#ff545454</color><color name="color_copy_right">#ffababab</color><color name="color_nav_text">#ff414141</color><color name="color_dialog_ok">#fffb5365</color><color name="spb_default_color">#ff33b5e5</color><color name="magazine_title_font">#ff212020</color><color name="process_bakground">#80000000</color><color name="book_bar_color">#80000000</color><color name="syn_book_bg">#ff6678</color><color name="exam_and_account_bg">#ffcc33</color><color name="famous_book_bg">#9755f6</color><color name="best_head_bg">#fe864b</color><color name="user_manager_bg">#0fc4d9</color><color name="my_download_bg">#84d018</color><color name="sys_setting_bg">#c8d900</color><color name="about_us_bg">#22ad38</color><color name="base_bar_bottom_color">#0fc4d9</color><color name="base_text_color">#a5a5a5</color><color name="font_tab_unselected_color">#dddddd</color><color name="font_tab_selected_color">#a5a5a5</color><color name="button_bg_color">#0fc4d9</color><color name="button_bg_color_selector">#747ae9</color><color name="yellow_bg">#ffcc33</color><color name="orange_bg">#fe864b</color><color name="paink_bg">#ff6678</color><color name="green_bg">#0fc4d9</color><color name="blue_bg">#747ae9</color><color name="dark_blue_bg">#9755f6</color></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="ptr_progress_bar_stroke_width">4.0dip</dimen><dimen name="base_list_title_text_size">15.0sp</dimen><dimen name="biz_fb_paddingx5">5.0dip</dimen><dimen name="biz_fb_paddingx10">10.0dip</dimen><dimen name="biz_fb_paddingx20">20.0dip</dimen><dimen name="biz_tie_comment_reply_height">54.0dip</dimen><dimen name="biz_tie_comment_reply_text_size">14.0sp</dimen><dimen name="biz_tie_comment_reply_padding">0.0dip</dimen><dimen name="setting_item_height">70.0dip</dimen><dimen name="setting_item_padding">10.0dip</dimen><dimen name="setting_item_text_size">16.0sp</dimen><dimen name="setting_item_magin_left">15.0dip</dimen><dimen name="setting_text_magin_left">15.0dip</dimen><dimen name="nav_item_text_size">18.0sp</dimen><dimen name="nav_inner_item_text_size">16.0sp</dimen><dimen name="nav_item_magin_left">10.0dip</dimen><dimen name="nav_text_magin_left">10.0dip</dimen><dimen name="nav_magin_left">10.0dip</dimen><dimen name="download_sub_height">130dip</dimen><dimen name="tab_menu_txtsize">15sp</dimen><dimen name="tab_menu_bg_height">110dp</dimen><dimen name="main_button_margin">4dp</dimen><dimen name="main_layout_margin">8dp</dimen><dimen name="main_content_padding">25dp</dimen><dimen name="main_title_text_padding">5dp</dimen><dimen name="main_title_text_size">16sp</dimen><dimen name="sync_tab_title_size">22sp</dimen><dimen name="bar_bottom_height">50dp</dimen><dimen name="user_edit_height">40dp</dimen><dimen name="user_button_height">40dp</dimen><dimen name="user_button_width">110dp</dimen><dimen name="txt_h1">25dp</dimen><dimen name="txt_h2">20dp</dimen><dimen name="txt_h3">17dp</dimen><dimen name="txt_h4">15dp</dimen><dimen name="txt_h5">13dp</dimen></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\ids.xml" qualifiers=""><item name="dialog_waiting" type="id"/><item name="ui_show_text" type="id"/><item name="ui_show_dialog" type="id"/><item name="ui_dismiss_dialog" type="id"/><item name="ui_update_ui" type="id"/><item name="dialog_wireless_setting" type="id"/><item name="images" type="id"/><item name="webview" type="id"/><item name="gridview" type="id"/><item name="listview" type="id"/></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">在线课堂</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="syn_tech">学习资源</string><string name="exam_room">模拟测试</string><string name="famous_book">教学视频</string><string name="best_head">在线交流</string><string name="user_manager">用戶管理</string><string name="add_account">账戶充值</string><string name="my_download">下载管理</string><string name="sys_setting">系統設置</string><string name="about_us">关于我們</string><string name="exception_timeout">网络超时</string><string name="exception_parse">解析数据异常</string><string name="phone_text">手机号码</string><string name="password_text">输入密码</string><string name="please_login_text">请登录</string><string name="login">登录</string><string name="reset">重置</string><string name="ok">确认</string><string name="no_register">还没有加入？</string><string name="register_text">立即注册！</string><string name="foget_password">忘记密码？</string><string name="find_password">立即找回！</string><string name="password_find">密码找回</string><string name="user_register">用户注册</string><string name="name_text">姓名</string><string name="sex_text">性别</string><string name="pwd_text">密码</string><string name="repwd_text">确认密码</string><string name="code_text">验证码</string><string name="register">注册</string><string name="boy_text">男</string><string name="girl_text">女</string><string name="get_code_text">获取验证码</string><string name="new_password_to_phone">新密码发送至手机</string><string name="card_text">卡号</string><string name="card_pwd_text">卡密码</string><string name="pay_account_text">充值账号</string><string name="repay_account_text">账号确认</string><string name="pay_account_ok">充值</string><string name="card_number">卡号：</string><string name="account_number">账号：</string><string name="pay_yes_or_no">是否确认充值？</string><string name="introduce">软件介绍</string><string name="check_update">检查更新</string><string name="company_eng_name">PeterClass</string><string name="copyright">胖大海工作室版权所有</string><string name="app_version">v1.0</string><string name="default_setting">默认\n设置</string><string name="base_text">基本介绍</string><string name="download_text">下载安装</string><string name="register_login_text">注册登录</string><string name="server_phone">客服电话：139-7911-1834</string><string name="F">false</string><string-array name="sync_tech_array">
+        <item>本地资源</item>
+        <item>在线资源</item>
+    </string-array><string-array name="best_head_array">
+        <item>用户列表</item>
+        <item>联系老师</item>
+        <item>最新排名</item>
+    </string-array><string-array name="download_array">
+        <item>正在下载</item>
+        <item>已下载</item>
+    </string-array><string-array name="exam_array">
+        <item>模拟考场</item>
+        <item>考试成绩</item>
+        
+    </string-array><string-array name="famous_book_array">
+        <item>本地视频</item>
+        <item>在线视频</item>
+    </string-array><string-array name="setting_array">
+        <item>主题色</item>
+        <item>字体大小</item>
+        <item>帮助</item>
+    </string-array><string-array name="course_list_array">
+        <item>Android程序课件列表</item>
+    </string-array></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\styles.xml" qualifiers=""><style name="Theme.Oclass" parent="@android:style/Theme.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@drawable/custom_tab_indicator</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@drawable/text_tab_indicator</item>
+        <item name="android:textSize">@dimen/sync_tab_title_size</item>
+        <item name="android:dividerPadding">10dp</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style><style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style><style name="UserButtonStyle">
+        <item name="android:layout_width">@dimen/user_button_width</item>
+        <item name="android:layout_height">@dimen/user_button_height</item>
+        <item name="android:background">@drawable/base_button_selector</item>
+        <item name="android:textSize">@dimen/txt_h3</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="BrowseStyle" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/browse_anim_in</item>
+        <item name="android:windowExitAnimation">@anim/browse_anim_out</item>
+    </style><style name="MenuBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/menu_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/menu_bottom_out</item>
+    </style><style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style><style name="AppBaseTheme" parent="@android:style/Theme.Light"/><style name="base_list_title_style">
+        <item name="android:textSize">@dimen/base_list_title_text_size</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#ffadadad</item>
+    </style><style name="base_setting_style">
+        <item name="android:textSize">@dimen/setting_item_text_size</item>
+        <item name="android:textColor">@drawable/nav_text_color</item>
+    </style><style name="base_tip_btn_style">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/base_black</item>
+    </style><style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:colorBackground">@color/base_bg_color</item>
+        <item name="android:windowBackground">@color/base_bg_color</item>
+    </style><style name="MyTheme.Full" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:colorBackground">@color/base_bg_color</item>
+        <item name="android:windowBackground">@color/base_bg_color</item>
+    </style><style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="max">100</item>
+        <item name="progress">0</item>
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#3498DB</item>
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#3498DB</item>
+        <item name="progress_reached_bar_height">3dp</item>
+        <item name="progress_unreached_bar_height">2dp</item>
+    </style></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\vpi__attrs.xml" qualifiers=""><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="boolean" name="centered"/><attr format="color" name="selectedColor"/><attr format="dimension" name="strokeWidth"/><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+    </declare-styleable><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+    </declare-styleable></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\vpi__colors.xml" qualifiers=""><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__background_holo_light">#fff3f3f3</color><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\vpi__defaults.xml" qualifiers=""><bool name="default_circle_indicator_centered">true</bool><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><color name="default_circle_indicator_page_color">#00000000</color><integer name="default_circle_indicator_orientation">0</integer><dimen name="default_circle_indicator_radius">3dp</dimen><bool name="default_circle_indicator_snap">false</bool><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_line_indicator_gap_width">4dp</dimen><dimen name="default_line_indicator_stroke_width">1dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><bool name="default_line_indicator_centered">true</bool><dimen name="default_title_indicator_clip_padding">4dp</dimen><color name="default_title_indicator_footer_color">#FF33B5E5</color><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_footer_indicator_style">2</integer><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><dimen name="default_title_indicator_footer_padding">7dp</dimen><color name="default_title_indicator_selected_color">#FFFFFFFF</color><bool name="default_title_indicator_selected_bold">true</bool><color name="default_title_indicator_text_color">#BBFFFFFF</color><dimen name="default_title_indicator_text_size">15dp</dimen><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><bool name="default_underline_indicator_fades">true</bool><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_underline_indicator_fade_length">400</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color></file><file path="G:\AndroidProject\peterclass\app\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="Widget">
+    </style><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style></file></source><source path="G:\AndroidProject\peterclass\app\build\generated\res\rs\debug"/><source path="G:\AndroidProject\peterclass\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="G:\AndroidProject\peterclass\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="G:\AndroidProject\peterclass\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+    </declare-styleable><declare-styleable name="Themes">
+        <attr format="reference" name="numberProgressBarStyle"/>
+    </declare-styleable><declare-styleable name="NumberProgressBar">
+        <attr format="integer" name="progress"/>
+        <attr format="integer" name="max"/>
+
+        <attr format="color" name="progress_unreached_color"/>
+        <attr format="color" name="progress_reached_color"/>
+
+        <attr format="dimension" name="progress_reached_bar_height"/>
+        <attr format="dimension" name="progress_unreached_bar_height"/>
+
+        <attr format="dimension" name="progress_text_size"/>
+        <attr format="color" name="progress_text_color"/>
+
+        <attr format="dimension" name="progress_text_offset"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+    </declare-styleable><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+    </declare-styleable></configuration></mergedItems></merger>

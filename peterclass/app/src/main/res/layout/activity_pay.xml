@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        layout="@layout/view_bar_head" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/user_edit_height"
+            android:background="@drawable/edit_bg"
+            android:drawableRight="@drawable/card_tag"
+            android:hint="@string/card_text" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/user_edit_height"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edit_bg"
+            android:drawableRight="@drawable/suo"
+            android:hint="@string/card_pwd_text" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/user_edit_height"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edit_bg"
+            android:drawableRight="@drawable/password"
+            android:hint="@string/pay_account_text" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/user_edit_height"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edit_bg"
+            android:drawableRight="@drawable/password"
+            android:hint="@string/repay_account_text" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_pay"
+                style="@style/UserButtonStyle"
+                android:text="@string/pay_account_ok" />
+
+            <Button
+                android:id="@+id/btn_reset"
+                style="@style/UserButtonStyle"
+                android:layout_alignParentRight="true"
+                android:text="@string/reset" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

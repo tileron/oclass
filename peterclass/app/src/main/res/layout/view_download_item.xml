@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:singleLine="true"
+        android:text="朝花夕拾"
+        android:textColor="@color/base_text_color"
+        android:textSize="@dimen/txt_h3" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/tv_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/page_indicator_unfocused"
+            android:singleLine="true"
+            android:text="鲁迅"
+            android:textColor="@color/base_text_color"
+            android:textSize="@dimen/txt_h5" />
+
+        <TextView
+            android:id="@+id/tv_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_author"
+            android:paddingTop="2dp"
+            android:singleLine="true"
+            android:text="0.25M"
+            android:textColor="@color/base_text_color"
+            android:textSize="@dimen/txt_h5" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <ImageView
+                android:id="@+id/iv_pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/download_pause" />
+
+            <ImageView
+                android:id="@+id/iv_del"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/download_del" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.student.oclass.view.NumberProgressBar
+        android:id="@+id/progress"
+        style="@style/NumberProgressBar_Default"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        custom:progress="0" />
+
+</LinearLayout>

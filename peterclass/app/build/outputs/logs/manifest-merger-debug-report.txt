@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:1-112:12
+	package
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:17:2-72
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:17:19-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:20:2-75
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:20:19-73
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:21:2-64
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:21:19-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:29:5-89
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:29:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:30:22-76
+application
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:32:5-110:19
+	android:label
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:36:9-41
+	android:icon
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:35:9-45
+	android:allowBackup
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:37:9-68
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:33:9-62
+activity#com.student.oclass.activity.webView
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:38:9-63
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:38:19-51
+activity#com.student.oclass.MainActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:39:9-52:20
+	android:label
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:40:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:45:27-74
+intent-filter#data:host:accountmanageactivity+data:scheme:aone
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:47:13-51:29
+data
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:48:17-50:45
+	android:host
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:49:21-57
+	android:scheme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:50:21-42
+activity#com.student.oclass.activity.ExamDetialActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:53:9-56:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:56:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:54:13-56
+activity#com.student.oclass.activity.SyncTechActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:57:9-60:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:59:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:60:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:58:13-54
+activity#com.student.oclass.activity.FamousBookActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:61:9-64:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:64:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:62:13-56
+activity#com.student.oclass.activity.BestHeadActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:65:9-68:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:68:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:66:13-54
+activity#com.student.oclass.activity.MyDownloadActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:69:9-72:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:71:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:72:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:70:13-56
+activity#com.student.oclass.activity.ExamActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:73:9-76:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:76:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:74:13-50
+activity#com.student.oclass.activity.SettingActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:77:9-80:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:79:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:80:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:78:13-53
+activity#com.student.oclass.activity.CourseListActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:81:9-84:51
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:83:13-49
+	android:theme
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:84:13-48
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:82:13-56
+activity#com.student.oclass.activity.LoginActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:86:13-51
+activity#com.student.oclass.activity.RegisterActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:88:9-90:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:89:13-54
+activity#com.student.oclass.activity.FindPwdActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:91:9-93:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:92:13-53
+activity#com.student.oclass.activity.PayAccountActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:94:9-96:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:95:13-56
+activity#com.student.oclass.activity.PayOkActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:98:13-51
+activity#com.student.oclass.activity.AboutActivity
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:100:9-102:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:102:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:101:13-51
+service#com.zdp.aseo.content.AseoZdpUpdateService
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:103:9-77
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:103:18-74
+service#com.iflytek.voiceads.update.DownloadService
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:104:9-105:73
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:105:13-71
+activity#com.iflytek.voiceads.request.IFLYBrowser
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:106:3-108:52
+	android:screenOrientation
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:108:13-49
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:107:13-68
+meta-data#IFLYTEK_APPKEY_AD
+ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:109:9-80
+	android:value
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:109:54-78
+	android:name
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml:109:21-53
+uses-sdk
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+	android:maxSdkVersion
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidProject\peterclass\app\src\main\AndroidManifest.xml

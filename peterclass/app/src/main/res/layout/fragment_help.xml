@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical" >
+    <LinearLayout 
+    android:id="@+id/layout_base"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/about_msg_green" />
+    <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginLeft="15dp"
+                android:text="@string/base_text"
+                android:textColor="@color/biz_tie_reply"
+                android:textSize="@dimen/txt_h3" />
+    </LinearLayout>
+    <LinearLayout 
+    android:id="@+id/layout_download"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/download_green" />
+    <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginLeft="15dp"
+                android:text="@string/download_text"
+                android:textColor="@color/biz_tie_reply"
+                android:textSize="@dimen/txt_h3" />
+    </LinearLayout>
+    <LinearLayout 
+    android:id="@+id/layout_register"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/register_green" />
+    <TextView
+                
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginLeft="15dp"
+                android:text="@string/register_login_text"
+                android:textColor="@color/biz_tie_reply"
+                android:textSize="@dimen/txt_h3" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        layout="@layout/view_bar_head" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_intr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="@string/introduce"
+            android:textColor="@color/base_text_color"
+            android:textSize="@dimen/txt_h1" >
+        </TextView>
+
+        <RelativeLayout
+            android:id="@+id/layout_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_intr"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/about_circle"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_com"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/company_eng_name"
+                android:textColor="@color/button_bg_color"
+                android:textSize="@dimen/txt_h3" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_com"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:singleLine="true"
+                android:text="@string/app_version"
+                android:textColor="@color/button_bg_color"
+                android:textSize="@dimen/txt_h3" />
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="160dp"
+            android:layout_height="@dimen/user_button_height"
+            android:layout_below="@+id/layout_tag"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/base_button_selector"
+            android:text="@string/check_update"
+            android:textColor="@color/white"
+            android:textSize="@dimen/txt_h3" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/server_phone"
+                android:textColor="@color/base_text_color"
+                android:textSize="@dimen/txt_h3" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/copyright"
+                android:textColor="@color/base_text_color"
+                android:textSize="@dimen/txt_h5" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

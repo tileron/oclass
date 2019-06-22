@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.student.oclass"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+	<uses-permission android:name="android.permission.GET_TASKS"/>
+	<uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <!-- Optional. Required for location feature -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+
+    <application
+        android:name="com.student.oclass.app.InitApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        <activity android:name=".activity.webView"></activity>
+        <activity
+            android:name="com.student.oclass.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <data
+                    android:host="accountmanageactivity"
+                    android:scheme="aone" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.ExamDetialActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.SyncTechActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.FamousBookActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.BestHeadActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.MyDownloadActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.ExamActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.SettingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.CourseListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.FindPwdActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.PayAccountActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.PayOkActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AboutActivity"
+            android:screenOrientation="portrait" />
+        <service android:name="com.zdp.aseo.content.AseoZdpUpdateService" />
+        <service 
+            android:name="com.iflytek.voiceads.update.DownloadService"/>
+		<activity
+            android:name="com.iflytek.voiceads.request.IFLYBrowser"
+            android:screenOrientation="portrait" />
+        <meta-data  android:name="IFLYTEK_APPKEY_AD" android:value="551952c8"/>
+    </application>
+
+</manifest>

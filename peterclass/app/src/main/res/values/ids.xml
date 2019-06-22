@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="dialog_waiting" type="id"></item>
+    <item name="ui_show_text" type="id"></item>
+    <item name="ui_show_dialog" type="id"></item>
+    <item name="ui_dismiss_dialog" type="id"></item>
+    <item name="ui_update_ui" type="id"></item>
+    <item name="dialog_wireless_setting" type="id"></item>
+
+    <!-- Messages IDs -->
+
+    <item name="images" type="id"></item>
+    <item name="webview" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="listview" type="id"/>
+
+</resources>
